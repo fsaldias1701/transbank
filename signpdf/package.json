@@ -1,0 +1,17 @@
+{
+  "name": "signpdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-forge": "^0.9.1",
+    "node-signpdf": "^1.2.3",
+    "pdfkit": "^0.11.0"
+  }
+}
